@@ -1,3 +1,1 @@
-print("hello")
-print("rohit")
-print("jha")
+pru tjk
